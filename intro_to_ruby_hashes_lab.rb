@@ -19,7 +19,6 @@ def monopoly_with_second_tier
 	    },
 	    :names => {}
 	 }
-	 return 
 end
 
 def monopoly_with_third_tier
